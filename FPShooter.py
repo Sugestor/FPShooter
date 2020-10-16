@@ -8,13 +8,13 @@ from pygame.constants import (
     K_ESCAPE,
     K_RETURN
 )
+
 import random
 import math
 from enum import IntEnum
 from collections import namedtuple
 import itertools
 import hmsysteme
-
 
 BLACK = (0, 0, 0)
 GRAY = (100, 100, 100)
